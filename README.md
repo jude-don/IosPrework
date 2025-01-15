@@ -29,7 +29,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## Notes
 
 Describe any challenges encountered while building the app.
-Identifying the view controller and draging and dropping the button.
+- Identifying the view controller and draging and dropping the button.
 
 
 
